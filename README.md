@@ -1,0 +1,1 @@
+Fifth Java project, ranked "Hard" on Hyperskill, it had some previous versions made for each task, but I refactored the code instead of maybe commenting it out and letting it be in the source file, maybe I'll do so in the next projects.
